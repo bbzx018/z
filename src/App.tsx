@@ -1,4 +1,4 @@
-import React from 'react'
+
 import './App.css'
 
 // ===== ชุดแรก: คอมโพเนนต์ย่อยแยก =====
