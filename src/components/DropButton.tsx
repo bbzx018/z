@@ -1,5 +1,5 @@
-import React from 'react'
-import { useCourseStore } from '../store/courseStore'
+
+import { useCourseStore } from '../store/CourseStore'
 
 export default function DropButton({ id }: { id: number }) {
   const dropCourse = useCourseStore((s) => s.dropCourse)
